@@ -1,0 +1,24 @@
+-classpath
+'/Users/gggyu/Documents/git/Reading-Hadoop/hadoop-maven-plugins/target/classes:/Users/gggyu/.m2/repository/org/apache/maven/maven-core/3.0/maven-core-3.0.jar:/Users/gggyu/.m2/repository/org/apache/maven/maven-settings-builder/3.0/maven-settings-builder-3.0.jar:/Users/gggyu/.m2/repository/org/sonatype/sisu/sisu-guice/2.1.7/sisu-guice-2.1.7-noaop.jar:/Users/gggyu/.m2/repository/org/apache/maven/maven-repository-metadata/3.0/maven-repository-metadata-3.0.jar:/Users/gggyu/.m2/repository/org/codehaus/plexus/plexus-classworlds/2.2.3/plexus-classworlds-2.2.3.jar:/Users/gggyu/.m2/repository/org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.jar:/Users/gggyu/.m2/repository/org/apache/maven/maven-model-builder/3.0/maven-model-builder-3.0.jar:/Users/gggyu/.m2/repository/org/sonatype/aether/aether-api/1.7/aether-api-1.7.jar:/Users/gggyu/.m2/repository/org/codehaus/plexus/plexus-interpolation/1.14/plexus-interpolation-1.14.jar:/Users/gggyu/.m2/repository/org/sonatype/aether/aether-util/1.7/aether-util-1.7.jar:/Users/gggyu/.m2/repository/org/sonatype/aether/aether-spi/1.7/aether-spi-1.7.jar:/Users/gggyu/.m2/repository/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3.jar:/Users/gggyu/.m2/repository/org/sonatype/sisu/sisu-inject-bean/1.4.2/sisu-inject-bean-1.4.2.jar:/Users/gggyu/.m2/repository/org/apache/maven/maven-settings/3.0/maven-settings-3.0.jar:/Users/gggyu/.m2/repository/org/apache/maven/maven-plugin-api/3.0/maven-plugin-api-3.0.jar:/Users/gggyu/.m2/repository/org/apache/maven/maven-artifact/3.0/maven-artifact-3.0.jar:/Users/gggyu/.m2/repository/org/sonatype/sisu/sisu-inject-plexus/1.4.2/sisu-inject-plexus-1.4.2.jar:/Users/gggyu/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5.jar:/Users/gggyu/.m2/repository/org/codehaus/plexus/plexus-utils/2.0.5/plexus-utils-2.0.5.jar:/Users/gggyu/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-annotations/3.0/maven-plugin-annotations-3.0.jar:/Users/gggyu/.m2/repository/org/apache/maven/maven-model/3.0/maven-model-3.0.jar:/Users/gggyu/.m2/repository/org/sonatype/aether/aether-impl/1.7/aether-impl-1.7.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/Users/gggyu/Documents/git/Reading-Hadoop/hadoop-maven-plugins/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2019 <a href="http://www.apache.org">Apache Software Foundation</a>. All Rights Reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/gggyu/Documents/git/Reading-Hadoop/hadoop-maven-plugins/target'
+-docencoding
+'UTF-8'
+-doctitle
+'Apache Hadoop Maven Plugins 2.6.0 API'
+-linkoffline
+'http://download.oracle.com/javase/6/docs/api' '/Users/gggyu/Documents/git/Reading-Hadoop/hadoop-maven-plugins/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Apache Hadoop Maven Plugins 2.6.0 API'

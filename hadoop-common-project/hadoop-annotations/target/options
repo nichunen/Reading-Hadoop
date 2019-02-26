@@ -1,0 +1,24 @@
+-classpath
+'/Users/gggyu/Documents/git/Reading-Hadoop/hadoop-common-project/hadoop-annotations/target/classes:/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/jre/../lib/tools.jar:/Users/gggyu/.m2/repository/jdiff/jdiff/1.0.9/jdiff-1.0.9.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/Users/gggyu/Documents/git/Reading-Hadoop/hadoop-common-project/hadoop-annotations/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2019 <a href="http://www.apache.org">Apache Software Foundation</a>. All Rights Reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/gggyu/Documents/git/Reading-Hadoop/hadoop-common-project/hadoop-annotations/target'
+-docencoding
+'UTF-8'
+-doctitle
+'Apache Hadoop Annotations 2.6.0 API'
+-linkoffline
+'http://download.oracle.com/javase/6/docs/api' '/Users/gggyu/Documents/git/Reading-Hadoop/hadoop-common-project/hadoop-annotations/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Apache Hadoop Annotations 2.6.0 API'
